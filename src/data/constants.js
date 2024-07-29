@@ -201,6 +201,19 @@ export const projects = [
     },
     {
       id: 7,
+      title: "Drum-Kit",
+      description: "You can play differnt instrument",
+      image: "https://github.com/isayvaid/Drum-Kit/blob/main/images/Img.jpeg?raw=true",
+      tags: [
+        "JavaScript" ,
+        "HTML ",
+        "CSS"
+      ],
+      github: "https://github.com/isayvaid/Drum-Kit",
+      webapp: "https://isayvaid.github.io/Drum-Kit/",
+    },
+    {
+      id: 8,
       title: "Study-Notion",
       description: "In this we have a Login & SignUp Forms",
       image: "https://github.com/isayvaid/Study-Notion/blob/main/src/assets/Img.jpeg?raw=true",
@@ -213,7 +226,7 @@ export const projects = [
       webapp: "https://isayvaid.github.io/Study-Notion/",
     },
     {
-      id: 8,
+      id: 6,
       title: "Random-GIF",
       description: "Random-GIF Genrator , You can genrate random gif by typing there name in the box",
       image: "https://github.com/isayvaid/Random-GIF/blob/main/assest/img.jpeg?raw=true",
@@ -238,18 +251,6 @@ export const projects = [
       github: "https://github.com/isayvaid/Testimonial",
       webapp: "https://isayvaid.github.io/Testimonial/",
     },
-    // {
-    //   id: 6,
-    //   title: "Blogs",
-    //   description: "Blogs",
-    //   image: "https://github.com/isayvaid/Blogs/blob/main/img.jpeg?raw=true",
-    //   tags: [
-    //     "ReactJS" ,
-    //     "Tailwind ",
-    //     "HTML"
-    //   ],
-    //   github: "https://github.com/isayvaid/Blogs",
-    //   webapp: "",
-    // },
+  
 
 ]
