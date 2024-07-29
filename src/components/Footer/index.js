@@ -100,7 +100,7 @@ function Footer() {
           <SocialMediaIcon href={Bio.github} target="display"><GitHubIcon /></SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
-          &copy; 2023 Sayli Vaidya. All rights reserved.
+          &copy; 2024 Sayli Vaidya. All rights reserved.
         </Copyright>
 
       </FooterWrapper>

@@ -11,7 +11,7 @@ export const Bio = {
       "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
     github: "https://github.com/isayvaid",
     resume:
-      "https://drive.google.com/file/d/1_UEGZ9hfwEqWy2kVp3Hg7kKfd9a0nBGg/view?usp=sharing",
+      "https://drive.google.com/file/d/1b8IacuvgMt03JgIk5_S-eMUonE5oJu1x/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/sayli-vaidya-577784221/",
   };
   export const skills = [
