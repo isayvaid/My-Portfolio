@@ -8,7 +8,7 @@ export const Bio = {
       "Developer",
     ],
     description:
-      "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
+      "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning, I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
     github: "https://github.com/isayvaid",
     resume: "https://drive.google.com/file/d/1ZuCdOKRjpBjUPfh-qMtM7Syalix399ap/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/sayli-vaidya-577784221/",
@@ -135,7 +135,7 @@ export const experiences = [
     desc: "This product upgrades applications to higher versions and includes modules like .NET microservices.My main role in this project was developing the UI/frontend part of the application and integrating it with the backend.",
     skills: [
       "ReactJS",
-      "TypeScript",
+      "JavaScript",
       "REST API",
       "Git",
       "Material UI"
