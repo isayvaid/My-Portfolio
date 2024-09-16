@@ -3,6 +3,7 @@
 export const Bio = {
     name: "Sayli Vaidya",
     roles: [
+      "Full Stack Developer",
       "Frontend Developer",
       "Programmer",
       "Developer",
@@ -10,7 +11,7 @@ export const Bio = {
     description:
       "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning, I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
     github: "https://github.com/isayvaid",
-    resume: "https://docs.google.com/document/d/1eVQFsOLP5GzfaNll5sK338kmPtPn_4w7j4BV80mUiFg/edit?usp=sharing",
+    resume: "https://drive.google.com/file/d/1yv53TlbHUrs8kavPDJZrB3XHrGGZpmWd/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/sayli-vaidya-577784221/",
   };
   export const skills = [
@@ -28,11 +29,6 @@ export const Bio = {
             "https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg",
         },
         {
-          name: "Next Js",
-          image:
-            "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACTklEQVR4Ab1XAaQqURB9DyohSykREpRIQSAlBCoECKUFCSRCBBEAaSEABQEoCIEASCwAUICALgCo83do0//9v819XX845O7VnDkzOzP7JWGaBd3C3IJpQVjAHeJ+Rs9a97vKLGrBsB1KgMhEP3FMUUwt4ENMfxr1yQIU4SSjRkbeOZtERmHk6pXQVDlnkHh9S+QLTm1hkiz4n/gzFQuny9FoFLquE+i34x+n02k0m00UCoV3BIzn3MMJrVYLtp1OJ0cS/X4f5/MZhmG8IyDsWtDfEaDIn2232/3zbrvdxuFwwGg04qRBt+VnETBNE0IIkE2n07/erdfrWK/X6Ha73Hb9ZXII3G43ivy3dNRqtZe7lUoFs9mM6oBDwCQCgquALT1FT3a5XF7qIZ/PYzgcolqtcggIIgBZAgRKB6lCRalp2uM8k8mAVMrlchwC+DEBipycE4n5fP44j8ViKJVKSCaTbAJCpgaez4vFIsjoWa/XA50FAgEkEgmEw2F2CkxZBZ5Br5tt1ITcbjd8Ph88Hg+7CBefECCsVitS4aVJcV9D/VMCVITk/Hq9YrPZyBBo2a1YMGvAcQYcj0cCtWMugcdYNhjDiBrP25mx3++x3W6RzWZZ8isfxzQLlsslJpMJpYY5jhkqcOH1ejEYDDAej9FoNOByuZxGsfqVzC7KTqcDSkkqleKsZOqX0mAwiHK5DGrJfr+fs5SqX8sjkQji8ThCoRC+v78Za7l6JagrUh3YkUuZpqgwDaecc9VYSDoV5Fg+at7n+eLN57kuE/EvzHr/Kvs31aYAAAAASUVORK5CYII=",
-        },
-        {
           name: "HTML",
           image: "https://www.w3.org/html/logo/badge/html5-badge-h-solo.png",
         },
@@ -48,7 +44,7 @@ export const Bio = {
         },
         {
           name: "TypeScript",
-          image:"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"
+          image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"
         },
         {
           name: "Angular",
@@ -61,15 +57,50 @@ export const Bio = {
         },
         {
           name: "Material UI",
-          image:"https://pbs.twimg.com/profile_images/1798056830041788417/HIapkjDx_400x400.jpg"
+          image: "https://pbs.twimg.com/profile_images/1798056830041788417/HIapkjDx_400x400.jpg"
         },
         {
             name: "Tailwind",
-            image:"https://www.drupal.org/files/project-images/screenshot_361.png"
+            image: "https://www.drupal.org/files/project-images/screenshot_361.png"
           },
         
       ],
     },
+       {
+        title: "Backend",
+        skills: [
+        
+          {
+            name: "Java",
+            image:
+                "https://javatpoint-images.s3.eu-north-1.amazonaws.com/core/images/java-logo3.png",
+          },
+          {
+            name: "SpringBoot",
+            image:
+              "https://img.icons8.com/?size=512&id=90519&format=png",
+          },
+          {
+            name: "Next Js",
+            image:
+              "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACTklEQVR4Ab1XAaQqURB9DyohSykREpRIQSAlBCoECKUFCSRCBBEAaSEABQEoCIEASCwAUICALgCo83do0//9v819XX845O7VnDkzOzP7JWGaBd3C3IJpQVjAHeJ+Rs9a97vKLGrBsB1KgMhEP3FMUUwt4ENMfxr1yQIU4SSjRkbeOZtERmHk6pXQVDlnkHh9S+QLTm1hkiz4n/gzFQuny9FoFLquE+i34x+n02k0m00UCoV3BIzn3MMJrVYLtp1OJ0cS/X4f5/MZhmG8IyDsWtDfEaDIn2232/3zbrvdxuFwwGg04qRBt+VnETBNE0IIkE2n07/erdfrWK/X6Ha73Hb9ZXII3G43ivy3dNRqtZe7lUoFs9mM6oBDwCQCgquALT1FT3a5XF7qIZ/PYzgcolqtcggIIgBZAgRKB6lCRalp2uM8k8mAVMrlchwC+DEBipycE4n5fP44j8ViKJVKSCaTbAJCpgaez4vFIsjoWa/XA50FAgEkEgmEw2F2CkxZBZ5Br5tt1ITcbjd8Ph88Hg+7CBefECCsVitS4aVJcV9D/VMCVITk/Hq9YrPZyBBo2a1YMGvAcQYcj0cCtWMugcdYNhjDiBrP25mx3++x3W6RzWZZ8isfxzQLlsslJpMJpYY5jhkqcOH1ejEYDDAej9FoNOByuZxGsfqVzC7KTqcDSkkqleKsZOqX0mAwiHK5DGrJfr+fs5SqX8sjkQji8ThCoRC+v78Za7l6JagrUh3YkUuZpqgwDaecc9VYSDoV5Fg+at7n+eLN57kuE/EvzHr/Kvs31aYAAAAASUVORK5CYII=",
+          },
+          {
+            name: "MongoDB",
+            image:
+              "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg",
+          },
+          {
+            name: "MySQL",
+            image:
+              "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg",
+          },
+          {
+            name: "RestAPI",
+            image: "https://media.licdn.com/dms/image/D4D12AQEeNNHq05k7MA/article-cover_image-shrink_720_1280/0/1687786979245?e=2147483647&v=beta&t=AVc2G-hvHNjTMklQtEt6qlby2l79Bf5dBBkUB5DBRe0",
+          }
+        ],
+      },
     // {
     //     title: "Backend",
     //     skills: [
@@ -101,7 +132,7 @@ export const Bio = {
       },
       {
         name: "Git",
-        image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvb-AAIFFETEbbKf65WtEmY5q1xg1XFghyDQ&s"
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvb-AAIFFETEbbKf65WtEmY5q1xg1XFghyDQ&s"
       },
       {
         name: "GitHub",
@@ -119,7 +150,12 @@ export const Bio = {
       },
       {
         name: "Jira",
-        image:"https://media.licdn.com/dms/image/D4D12AQFpJHL2LtVUUQ/article-cover_image-shrink_720_1280/0/1703164645934?e=2147483647&v=beta&t=CJAdmneCgRwAPM889Blj5DF3JA9kCDC2bMKnCXeZ7K0"
+        image: "https://media.licdn.com/dms/image/D4D12AQFpJHL2LtVUUQ/article-cover_image-shrink_720_1280/0/1703164645934?e=2147483647&v=beta&t=CJAdmneCgRwAPM889Blj5DF3JA9kCDC2bMKnCXeZ7K0"
+      },
+      {
+        name: "AWS",
+        image:
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrX7yoCF0oIOFUDibu9uchgeyihc1pRCUOcQ&s"
       },
        
     ],
@@ -128,7 +164,7 @@ export const Bio = {
 export const experiences = [
   {
     id: 0,
-    img:"https://mma.prnewswire.com/media/1022385/Persistent_Systems_Logo.jpg?p=twitter",
+    img: "https://mma.prnewswire.com/media/1022385/Persistent_Systems_Logo.jpg?p=twitter",
     role: " Managed a complete module of the application called DotNet Microservice.",
     company: "Persistent Systems",
     date: "August - July 2024",
@@ -136,6 +172,9 @@ export const experiences = [
     skills: [
       "ReactJS",
       "JavaScript",
+      "Java",
+      "Spring Boot",
+      "CI/CD",
       "REST API",
       "Git",
       "Material UI"
@@ -143,7 +182,7 @@ export const experiences = [
   },
     {
       id: 1,
-      img:"https://mma.prnewswire.com/media/1022385/Persistent_Systems_Logo.jpg?p=twitter",      
+      img: "https://mma.prnewswire.com/media/1022385/Persistent_Systems_Logo.jpg?p=twitter",      
       role: "Actively contributing to defect resolution has honed my problem-solving skills and deepened my understanding of our systems.",
       company: "Persistent Systems",
       date: "Feb - July 2022",
@@ -173,7 +212,7 @@ export const projects = [
     {
       id: 9,
       title: "Weather-App",
-      description:"Weather App , which shows your curent weather details and city weather.",
+      description: "Weather App , which shows your curent weather details and city weather.",
       image:
         "https://github.com/isayvaid/Weather-App/blob/main/assets/Img.jpeg?raw=true",
       tags: [
@@ -187,7 +226,7 @@ export const projects = [
     {
       id: 10,
       title: "Password-Genrator",
-      description:"You can genrate random password,You can copy paste the password.",
+      description: "You can generate random password,You can copy paste the password.",
       image:
         "https://github.com/isayvaid/Password-Genrator/blob/main/Assests/pass-img.jpeg?raw=true",
       tags: [
@@ -201,10 +240,10 @@ export const projects = [
     {
       id: 7,
       title: "Drum-Kit",
-      description: "You can play differnt instrument",
+      description: "You can play different instruments",
       image: "https://github.com/isayvaid/Drum-Kit/blob/main/images/Img.jpeg?raw=true",
       tags: [
-        "JavaScript" ,
+        "JavaScript",
         "HTML ",
         "CSS"
       ],
@@ -217,7 +256,7 @@ export const projects = [
       description: "In this we have a Login & SignUp Forms",
       image: "https://github.com/isayvaid/Study-Notion/blob/main/src/assets/Img.jpeg?raw=true",
       tags: [
-        "ReactJS" ,
+        "ReactJS",
         "Tailwind ",
         "HTML"
       ],
@@ -230,7 +269,7 @@ export const projects = [
       description: "Random-GIF Genrator , You can genrate random gif by typing there name in the box",
       image: "https://github.com/isayvaid/Random-GIF/blob/main/assest/img.jpeg?raw=true",
       tags:[
-        "ReactJS" ,
+        "ReactJS",
         "Tailwind ",
         "HTML"
       ],
@@ -243,7 +282,7 @@ export const projects = [
       description: "Testimonial's",
       image: "https://github.com/isayvaid/Testimonial/blob/main/assest/img.jpeg?raw=true",
       tags: [
-        "ReactJS" ,
+        "ReactJS",
         "Tailwind ",
         "HTML"
       ],
